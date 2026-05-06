@@ -49,7 +49,7 @@ Full-stack application with search, filtering, and map-based exploration
 
 ---
 
-## 🛠️ Tech
+## Tech
 
 Python • SQL • JavaScript  
 LLMs • NLP • RAG • Vector Databases  
@@ -58,7 +58,7 @@ Airflow • Snowflake • AWS • Docker
 
 ---
 
-## 📊 What I care about
+##  What I care about
 
 - Systems > models  
 - Real-world impact > academic benchmarks  
@@ -66,7 +66,7 @@ Airflow • Snowflake • AWS • Docker
 
 ---
 
-## 📫 Contact
+##  Contact
 
 LinkedIn: https://linkedin.com/in/s-somashekar/  
 Email: shan.somashekar@gmail.com
