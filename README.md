@@ -7,7 +7,7 @@ Focus: NLP, retrieval systems, and scalable data pipelines
 
 ---
 
-## 🚀 What I’m doing
+##  What I’m doing
 
 - Building RAG-based systems for search and recommendation
 - Working on zero-shot NLP for large-scale feedback analysis
@@ -15,14 +15,14 @@ Focus: NLP, retrieval systems, and scalable data pipelines
 
 ---
 
-## 🧠 Featured Work
+##  Featured Work
 
 ### RAG-Based Recommendation System
 Retrieval + ranking + LLM reasoning system for personalized recommendations  
 - FAISS for semantic retrieval  
 - XGBoost / LightGBM for ranking  
 - LangChain for response generation  
-→ https://github.com/yourusername/rag-recommendation-system
+→
 
 ---
 
@@ -30,7 +30,7 @@ Retrieval + ranking + LLM reasoning system for personalized recommendations
 Extracts structured insights from unstructured customer feedback using LLMs  
 - Issue extraction, sentiment, aspect detection  
 - Works without labeled training data  
-→ https://github.com/yourusername/zero-shot-feedback-intelligence
+
 
 ---
 
@@ -38,15 +38,14 @@ Extracts structured insights from unstructured customer feedback using LLMs
 Graph + NLP system to analyze claim propagation and user influence  
 - Network analysis + text modeling  
 - Identifies misinformation clusters  
-→ https://github.com/yourusername/misinformation-network-analysis
-
+→
 ---
 
 ### Real Estate Platform
 Full-stack application with search, filtering, and map-based exploration  
 - React + backend APIs  
 - Pagination, favorites, geospatial features  
-→ https://github.com/yourusername/real-estate-platform
+→ 
 
 ---
 
