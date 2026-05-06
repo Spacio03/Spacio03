@@ -1,5 +1,4 @@
-### Hey, I’m Shanmuganathan
-
+### Hey, I’m Shan Somashekar 
 I build production-grade ML systems and backend pipelines that turn messy data into usable products.
 
 MS Computer Science @ Virginia Tech  
